@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: ccab9121c6c574055be273a659a89275
+  - enabled: 1
+    path: Assets/Scenes/FreePlay.unity
+    guid: 0a219348226e441aba627e0b55aba102
+  - enabled: 1
+    path: Assets/Scenes/Glider.unity
+    guid: a316432eb822d4c6fbb27e0ad3d82bdc
+  - enabled: 1
+    path: Assets/Scenes/GOLexamplemenu.unity
+    guid: 476e19ff9c9794213af7ecb64c490e79
+  - enabled: 1
+    path: Assets/Scenes/GliderGun.unity
+    guid: 4ea72c75519344963ab728cea3f6e85c
+  m_configObjects: {}
